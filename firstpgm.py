@@ -1,3 +1,3 @@
 amt=int(input("enter amount"))
-tax=int(input(amt*18/100))
-print("amt")
+tax=(amt*(18/100))
+print("tax amount",tax)
