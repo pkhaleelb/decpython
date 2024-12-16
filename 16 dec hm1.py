@@ -1,3 +1,6 @@
+there is a football match going on and to attend the match ticket is compulsory based on the age ,
+if the age is between 18-30 is 5 dollars ,if age 30-50 is 20 dollars and age is more than 50 is free
+ but printing the value calculate it as Indian rupees . write the python code using elif 
 
 USD_TO_INR = 83
 age = int(input("Enter your age: "))
