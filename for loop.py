@@ -2,7 +2,7 @@
 for x in range(5):
     print(x)
 
-#range (start,stop
+#range (start,stop)
 for x in range (1000,1007):
     print(x)
 
